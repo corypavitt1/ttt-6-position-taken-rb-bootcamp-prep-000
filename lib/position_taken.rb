@@ -1,3 +1,3 @@
 # code your #position_taken? method here!
-board[1] == ""
+board[0] == ""
 end
